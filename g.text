@@ -1,0 +1,66 @@
+<html>
+
+<head>
+    <title>Frame2</title>
+    <link rel="stylesheet" href="d.css">
+</head>
+<center>
+
+    <body bgcolor="#b3ecff">
+        <h1>Words Start With "G"</h1>
+        <table border="2" width="80%" height="80%" class="mytable">
+            <tr>
+                <th> Word</th>
+                <th>Meaning</th>
+            </tr>
+            <tr>
+                <td>Gabble</td>
+                <td>Talk quickly and indistinctly, to talk or utter rapidly or incoherently</td>
+            </tr>
+            <tr>
+                <td>Gaiety</td>
+                <td>Light hearted and cheerful mood or behavior</td>
+            </tr>
+            <tr>
+                <td>Gaffe</td>
+                <td>An embarrassing blunder</td>
+            </tr>
+            <tr>
+                <td> Gainsay</td>
+                <td> Deny or contradict,</td>
+            </tr>
+            <tr>
+                <td>Galore</td>
+                <td>In abundance, aplenty</td>
+            </tr>
+            <tr>
+                <td> Galvanize</td>
+                <td>To stimulate shock or excite into action</td>
+            </tr>
+            <tr>
+                <td> Gambit</td>
+                <td>An action or remark intended to gain an advantage</td>
+            </tr>
+            <tr>
+                <td>Gamut</td>
+                <td>The whole range or scope, the entire range or extent</td>
+            </tr>
+            <tr>
+                <td> Garble</td>
+                <td>Confuse or distort a message</td>
+            </tr>
+            <tr>
+                <td>Garish</td>
+                <td>Gaudy, unpleasantly bright and showy</td>
+            </tr>
+            <tr>
+                <td>Gargantuan</td>
+                <td>Enormous, giant in size</td>
+            </tr>
+
+        </table>
+
+    </body>
+</center>
+
+</html>

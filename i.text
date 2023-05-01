@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <title>Frame2</title>
+        <link rel="stylesheet" href="d.css">
+    </head>
+    <center>
+    <body bgcolor="#b3ecff">
+        <h1>Words Start With "I"</h1>
+        <table border="2" width="80%" height="80%" class="mytable">
+         <tr>
+             <th>Words</th>
+         <th>Meanings</th>
+         </tr>
+         <tr>
+             <td> Idealism</td>
+             <td>The belief that ideals can be achieved; behavior or thought based on a conception of things as one thinks they should be.        </td>
+         </tr>
+         <tr>
+             <td> Idiosyncrasy</td>
+             <td>Any personal peculiarity, mannerism etc., a person's particular way of behaving or thinking.</td>
+         </tr>
+         <tr>
+             <td> Idiomatic</td>
+             <td>Using expressions natural to a native speaker</td>
+         </tr>
+         <tr>
+             <td>  Ignoble</td>
+             <td>Dishonorable, not noble in character or quality, mean</td>
+         </tr>
+         <tr>
+             <td>Ignominy</td>
+             <td>Public disgrace</td>
+         </tr>
+         <tr>
+             <td> Illegible</td>
+             <td>Not clear enough to be read, hard or impossible to read because it is badly written or printed</td>
+         </tr>
+         <tr>
+             <td>Imbecile</td>
+             <td>Informal-a stupid person, a person with abnormally low intelligence, a fool</td>
+         </tr>
+  
+ 
+        </table>
+     
+
+    </body>
+</center>
+</html>

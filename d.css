@@ -1,0 +1,30 @@
+* h1{
+    text-align: center;
+    color: rgb(182, 55, 55);
+    font-style: italic;
+  }
+  
+  .mybutton {
+    width: 1250px;
+    position: relative;
+    float: left;
+    left: 2%;
+    margin-top: 2%;
+}
+  .size {
+    width: 200px;
+    height: 30px;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 1%;
+    color: rgb(187, 175, 175);
+    background-color: rgb(195, 253, 147);
+    border-color: rgb(85, 83, 83);
+    border-radius: 8px;
+
+}
+
+.mytable{
+  background-color: rgb(213, 173, 250);
+  font-style: italic;
+}

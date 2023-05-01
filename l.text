@@ -1,0 +1,66 @@
+<html>
+
+<head>
+    <title>Frame2</title>
+    <link rel="stylesheet" href="d.css">
+</head>
+
+<body bgcolor="#b3ecff">
+    <h1>Words Start With "L"</h1>
+    <table border="2" width="80%" height="80%" class="mytable">
+        <tr>
+            <th>Word</th>
+            <th>Meaning</th>
+        </tr>
+        <tr>
+            <td>Laborious</td>
+            <td>Requiring or showing much effort</td>
+        </tr>
+        <tr>
+            <td>Labyrinth</td>
+            <td>A complicated network of passages</td>
+        </tr>
+        <tr>
+            <td>Lacerate</td>
+            <td>Tear the flesh or skin, It can be used to refer to someone's feeling being hurt or wounded</td>
+        </tr>
+        <tr>
+            <td>Lackadaisical</td>
+            <td>Lacking enthusiasm and thoroughness</td>
+        </tr>
+        <tr>
+            <td>Lackluster</td>
+            <td>Lacking energy or inspiration, dull (not shining)</td>
+        </tr>
+        <tr>
+            <td>Laconic</td>
+            <td>Using few words</td>
+        </tr>
+        <tr>
+            <td>Lacuna</td>
+            <td>A gap or a missing portion</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+
+
+    </table>
+
+
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+<html>
+
+<head>
+    <title>Frame2</title>
+    <link rel="stylesheet" href="d.css">
+</head>
+<center>
+
+    <body bgcolor="#b3ecff">
+        <h1>Words Start With "J"</h1>
+        <table border="2" width="80%" height="80%" class="mytable">
+            <tr>
+                <th> Word</th>
+                <th>Meaning</th>
+            </tr>
+            <tr>
+                <td> Jabber</td>
+                <td>To talk quickly and incoherently but unintelligibly</td>
+            </tr>
+            <tr>
+                <td> Jackass</td>
+                <td>Stupid person, a male ass</td>
+            </tr>
+            <tr>
+                <td>Jaded</td>
+                <td>Tired and bored, worn out, worthless, exhausted, especially through overwork</td>
+            </tr>
+            <tr>
+                <td>Jamboree</td>
+                <td>A lavish or noisy party</td>
+            </tr>
+            <tr>
+                <td> Jargon</td>
+                <td>Words used by a particular group and hard for others to understand</td>
+            </tr>
+            <tr>
+                <td>Jaunty</td>
+                <td>Lively and self confident</td>
+            </tr>
+            <tr>
+                <td> Jeer</td>
+                <td>Make rude mocking remarks at</td>
+            </tr>
+
+
+        </table>
+
+    </body>
+</center>
+
+</html>

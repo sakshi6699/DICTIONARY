@@ -1,0 +1,65 @@
+<html>
+
+<head>
+    <title>Frame2</title>
+    <link rel="stylesheet" href="d.css">
+</head>
+<center>
+<body  bgcolor="#b3ecff">
+    <h1>Words Start With "H"</h1>
+    <table border="2" width="80%" height="80%" class="mytable">
+        <tr>
+            <th>Words</th>
+            <th>Meanings</th>
+        </tr>
+        <tr>
+            <td>Hackneyed</td>
+            <td>Unoriginal and dull, made trite by overuse</td>
+        </tr>
+        <tr>
+            <td> Haggard</td>
+            <td>Looking exhausted and unwell, having a wild, wasted or worn look</td>
+        </tr>
+        <tr>
+            <td> Halcyon</td>
+            <td>Happy and peaceful, tranquil, idyllic</td>
+        </tr>
+        <tr>
+            <td> Hallucinate</td>
+            <td>See something which is not actually present, perception of sight, sounds etc which are not present</td>
+        </tr>
+        <tr>
+            <td>Hapless</td>
+            <td>Unlucky, unfortunate</td>
+        </tr>
+        <tr>
+            <td>
+                Harbinger</td>
+            <td>A sign or herald of something, a forerunner</td>
+        </tr>
+        <tr>
+            <td> Harangue</td>
+            <td>Criticize aggressively, a long blustering speech</td>
+        </tr>
+        <tr>
+            <td>Harmonious</td>
+            <td>The quality of forming a pleasing combination, agreement; peace, having parts arranged in an orderly
+                manner</td>
+        </tr>
+        <tr>
+            <td>Harrowing</td>
+            <td>Upsetting, very distressing</td>
+        </tr>
+        <tr>
+            <td> Hauteur</td>
+            <td>Disdainful pride</td>
+        </tr>
+        <tr>
+            <td> Heady</td>
+            <td>Intoxicating, having an exciting effect</td>
+        </tr>
+    </table>
+
+</body>
+</center>
+</html>

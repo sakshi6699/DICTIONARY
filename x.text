@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title>Frame2</title>
+        <link rel="stylesheet" href="d.css">
+    </head>
+    <center>
+    <body bgcolor="#b3ecff">
+        <h1>Words Start With "X"</h1>
+        <table border="2" width="80%" height="80%" class="mytable">
+         <tr>
+             <th>Word</th>
+         <th>Meaning</th>
+         </tr>
+         <tr>
+             <td> Xenophobia</td>
+             <td>Dislike or fear of people from other countries</td>
+         </tr>
+         <tr>
+             <td></td>
+             <td></td>
+         </tr>
+         <tr>
+             <td></td>
+             <td></td>
+         </tr>
+         <tr>
+             <td></td>
+             <td></td>
+         </tr>
+         <tr>
+             <td></td>
+             <td></td>
+         </tr>
+         <tr>
+             <td></td>
+             <td></td>
+         </tr>
+         <tr>
+             <td></td>
+             <td></td>
+         </tr>
+         <tr>
+             <td></td>
+             <td></td>
+         </tr>
+         <tr>
+             <td></td>
+             <td></td>
+         </tr>
+         <tr>
+             <td></td>
+             <td></td>
+         </tr>
+         <tr>
+             <td></td>
+             <td></td>
+         </tr>
+        	
+        </table>
+ 
+
+    </body>
+</center>
+</html>

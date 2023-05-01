@@ -1,0 +1,62 @@
+<html>
+
+<head>
+    <title>Frame2</title>
+    <link rel="stylesheet" href="d.css">
+</head>
+<center>
+<body  bgcolor="#b3ecff">
+    <h1>Words Start With "V"</h1>
+    <table border="2" width="80%" height="80%" class="mytable">
+        <tr>
+            <th> Word</th>
+            <th>Meaning</th>
+        </tr>
+        <tr>
+            <td>Vacillate</td>
+            <td>Keep changing one's mind, waver</td>
+        </tr>
+        <tr>
+            <td>Vacuous</td>
+            <td>Showing lack of thought or intelligence</td>
+        </tr>
+        <tr>
+            <td>Vainglorious</td>
+            <td>is an antique word for self promotion, vain boastfulness in one's self. It means to do things for glory and self promotion.</td>
+        </tr>
+        <tr>
+            <td> Valediction</td>
+            <td>A farewell</td>
+        </tr>
+        <tr>
+            <td> Valiant</td>
+            <td>Brave, noble</td>
+        </tr>
+        <tr>
+            <td>Validate</td>
+            <td>Check the validity of, make or declare valid</td>
+        </tr>
+        <tr>
+            <td> Vanquish</td>
+            <td>Defeat thoroughly</td>
+        </tr>
+        <tr>
+            <td>Vantage</td>
+            <td>A position giving a good view</td>
+        </tr>
+        <tr>
+            <td>Variable</td>
+            <td>Liable to change, able to vary, differ</td>
+        </tr>
+        <tr>
+            <td> Variance</td>
+            <td>Disagreeing</td>
+        </tr>
+        <tr>
+            <td>Variant</td>
+            <td>A form differing from other forms of the same thing</td>
+        </tr>
+        </table>
+</body>
+</center>
+</html>

@@ -1,0 +1,62 @@
+<html>
+
+<head>
+    <title>Frame2</title>
+    <link rel="stylesheet" href="d.css">
+</head>
+<center>
+<body  bgcolor="#b3ecff">
+    <h1>Words Start With "S"</h1>
+    <table border="2" width="80%" height="80%" class="mytable">
+        <tr>
+            <th> Word</th>
+            <th>Meaning</th>
+        </tr>
+        <tr>
+            <td>Sabotage</td>
+            <td>Deliberately destroy or damage</td>
+        </tr>
+        <tr>
+            <td>Sacrilege</td>
+            <td>Disrespect to something sacred or highly valued</td>
+        </tr>
+        <tr>
+            <td>Sacrosanct</td>
+            <td>Too important or valuable to be changed or questioned, very sacred, holy</td>
+        </tr>
+        <tr>
+            <td>Sagacious</td>
+            <td>Wise</td>
+        </tr>
+        <tr>
+            <td>Salutary</td>
+            <td>Providing a beneficial effect, beneficiary, wholesome</td>
+        </tr>
+        <tr>
+            <td>Salvo</td>
+            <td>A sudden series of aggressive statements or acts</td>
+        </tr>
+        <tr>
+            <td>Samaritan</td>
+            <td>A kind or helpful person</td>
+        </tr>
+        <tr>
+            <td>Sanguine</td>
+            <td>Optimistic, cheerful</td>
+        </tr>
+        <tr>
+            <td> Saunter</td>
+            <td>Stroll</td>
+        </tr>
+        <tr>
+            <td> Sanctimonious</td>
+            <td>Making a show of being morally superior</td>
+        </tr>
+        <tr>
+            <td>Sanitize</td>
+            <td>Make hygienic, make something unpleasant seem more acceptable</td>
+        </tr>
+    </table>
+</body>
+</center>
+</html>

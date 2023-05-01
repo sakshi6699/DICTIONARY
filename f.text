@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <title>Frame2</title>
+        <link rel="stylesheet" href="d.css">
+    </head>
+    <center>
+    <body bgcolor="#b3ecff">
+        <h1>Words Start With "F"</h1>
+        <table border="2" width="80%" height="80%" class="mytable">
+         <tr>
+             <th> Word	</th>
+         <th>Meaning</th>
+         </tr>
+         <tr>
+             <td>Fabricate</td>
+             <td>Invent untrue facts, construct, to make up (a story)</td>
+         </tr>
+         <tr>
+             <td>Facet</td>
+             <td>One side of something with many sides, an aspect</td>
+         </tr>
+         <tr>
+             <td>Facetious</td>
+             <td>Joking especially at an inappropriate time, sarcastic, treating serious issues with inappropriate humor</td>
+         </tr>
+         <tr>
+             <td>Facsimile</td>
+             <td>An exact copy of a document, a fax</td>
+         </tr>
+         <tr>
+             <td>Factitious</td>
+             <td>Not genuine</td>
+         </tr>
+         <tr>
+             <td>Fait accompli</td>
+             <td>A thing that has been done and cannot now be altered; something already done or in effect, making opposition or argument useless</td>
+         </tr>
+         <tr>
+             <td>Fallacy</td>
+             <td>A mistaken belief, unsound reasoning, misleading</td>
+         </tr>
+         <tr>
+             <td>Fastidious</td>
+             <td>Attention to detail, very concerned about cleanliness</td>
+         </tr>
+         <tr>
+             <td>Fatuous</td>
+             <td>Silly and pointless, stupid</td>
+         </tr>
+         <tr>
+             <td>Faux pas</td>
+             <td>An embarrassing social blunder, French origin-false step;</td>
+         </tr>
+         <tr>
+             <td>Fawn</td>
+             <td>Try to gain favor by using flattery, to act sl</td>
+         </tr>
+ 
+        </table>
+     </body>
+  
+</center>
+</html>

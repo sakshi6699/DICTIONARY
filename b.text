@@ -1,0 +1,58 @@
+<html>
+
+<head>
+    <title>Frame2</title>
+    <link rel="stylesheet" href="d.css">
+</head>
+<center>
+<body bgcolor="#b3ecff">
+    <h1>Words Start With "B"</h1>
+    <table border="2"  width="80%" height="80%" class="mytable">
+        <tr>
+            <th>Word</th>
+            <th>Meaning</th>
+        </tr>
+        <tr>
+            <td> Babble </td>
+            <td>Talk rapidly in a foolish or confused way</td>
+        </tr>
+        <tr>
+            <td> Backlog</td>
+            <td>A build up of work, an accumulation or reserve</td>
+        </tr>
+        <tr>
+            <td> Badger</td>
+            <td>To nag, annoy, pester</td>
+        </tr>
+        <tr>
+            <td> Baleful </td>
+            <td>Menacing, deadly, harmful</td>
+        </tr>
+        <tr>
+            <td> Banal</td>
+            <td>Predictable and unoriginal, trite, commonplace</td>
+        </tr>
+        <tr>
+            <td> Banter </td>
+            <td>Playful teasing, friendly teasing</td>
+        </tr>
+        <tr>
+            <td> Baritone</td>
+            <td>A man's singing voice between tenor and bass</td>
+        </tr>
+        <tr>
+            <td> Barrage</td>
+            <td>Large number of questions or complaints, heavy attack</td>
+        </tr>
+        <tr>
+            <td> Bashful </td>
+            <td>Shy, easily embarrassed</td>
+        </tr>
+        <tr>
+            <td> Baulk</td>
+            <td>Hesitate to accept, thwart or hinder</td>
+        </tr>
+    </table>
+</body>
+</center>
+</html>

@@ -1,0 +1,63 @@
+<html>
+
+<head>
+    <title>Frame2</title>
+    <link rel="stylesheet" href="d.css">
+</head>
+<center>
+<body  bgcolor="#b3ecff">
+    <h1>Words Start With "P"</h1>
+    <table border="2" width="80%" height="80%" class="mytable">
+        <tr>
+            <th>Word</th>
+            <th>Meaning</th>
+        </tr>
+        <tr>
+            <td>Pace</td>
+            <td>Rate of movement or change, walk steadily or to and fro, do something at a controlled and steady rate
+            </td>
+        </tr>
+        <tr>
+            <td>Palindrome</td>
+            <td>A word or phrase that reads the same backwards as forwards</td>
+        </tr>
+        <tr>
+            <td>Pall</td>
+            <td>Becoming less appealing through familiarity, a dark cloud of smoke, dust etc</td>
+        </tr>
+        <tr>
+            <td>Palpable</td>
+            <td>Able to be touched or felt</td>
+        </tr>
+        <tr>
+            <td>Palpitate</td>
+            <td>Beat rapidly, shake, tremble</td>
+        </tr>
+        <tr>
+            <td>Paltry</td>
+            <td>(of an amount)very small, trivial, measly</td>
+        </tr>
+        <tr>
+            <td>Pandemonium</td>
+            <td>Uproar</td>
+        </tr>
+        <tr>
+            <td>Paradigm</td>
+            <td>A typical example or model</td>
+        </tr>
+        <tr>
+            <td>Parameter</td>
+            <td>A limit defining the scope of a process or activity, characteristic or distinguishing feature.</td>
+        </tr>
+        <tr>
+            <td>Paramount</td>
+            <td>More important than anything else</td>
+        </tr>
+        <tr>
+            <td>Pariah</td>
+            <td>An outcast</td>
+        </tr>
+    </table>
+</body>
+</center>
+</html>

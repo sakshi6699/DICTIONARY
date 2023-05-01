@@ -1,0 +1,62 @@
+<html>
+
+<head>
+    <title>Frame2</title>
+    <link rel="stylesheet" href="d.css">
+</head>
+<center>
+<body bgcolor="#b3ecff">
+    <h1>Words Start With "D"</h1>
+    <table border="2" width="80%" height="80%" class="mytable">
+        <tr>
+            <th>Word</th>
+            <th>Meaning</th>
+        </tr>
+        <tr>
+            <td>Dabble</td>
+            <td>Take part in an activity in a casual way. to do something superficially</td>
+        </tr>
+        <tr>
+            <td>Daft</td>
+            <td>Silly, inane, foolish</td>
+        </tr>
+        <tr>
+            <td>Dapper</td>
+            <td>Neat in appearance and dressing</td>
+        </tr>
+        <tr>
+            <td>Dastardly</td>
+            <td>Wicked and cruel, mean, cowardly</td>
+        </tr>
+        <tr>
+            <td>Daunt</td>
+            <td>Intimidate or discourage</td>
+        </tr>
+        <tr>
+            <td>Debacle</td>
+            <td>Crushing defeat , a complete failure, disaster</td>
+        </tr>
+        <tr>
+            <td>Debase</td>
+            <td>Lower in quality or value</td>
+        </tr>
+        <tr>
+            <td>Dearth</td>
+            <td>Scarcity or lack</td>
+        </tr>
+        <tr>
+            <td>Debrief</td>
+            <td>Question in detail about a competed mission</td>
+        </tr>
+        <tr>
+            <td>Decelerate</td>
+            <td>slowdown</td>
+        </tr>
+        <tr>
+            <td>Decisive</td>
+            <td>Able to make a decision quickly, settling an issue quickly</td>
+        </tr>
+    </table>
+</body>
+</center>
+</html>

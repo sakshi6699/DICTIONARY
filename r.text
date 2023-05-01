@@ -1,0 +1,62 @@
+<html>
+
+<head>
+    <title>Frame2</title>
+    <link rel="stylesheet" href="d.css">
+</head>
+<center>
+<body  bgcolor="#b3ecff">
+    <h1>Words Start With "R"</h1>
+    <table border="2" width="80%" height="80%" class="mytable">
+        <tr>
+            <th> Word</th>
+            <th>Meaning</th>
+        </tr>
+        <tr>
+            <td>Rabble</td>
+            <td>Disorderly crowd, a mob</td>
+        </tr>
+        <tr>
+            <td>Rabid</td>
+            <td>Fanatical, violent, intense</td>
+        </tr>
+        <tr>
+            <td>Racket</td>
+            <td>A loud unpleasant noise, a noisy confusion</td>
+        </tr>
+        <tr>
+            <td>Raconteur</td>
+            <td>A person who tells stories in a interesting way</td>
+        </tr>
+        <tr>
+            <td>Racy</td>
+            <td>Lively and exciting</td>
+        </tr>
+        <tr>
+            <td>Radiant</td>
+            <td>Shining or glowing brightly, showing joy or health</td>
+        </tr>
+        <tr>
+            <td> Raffish</td>
+            <td>Slightly disreputable</td>
+        </tr>
+        <tr>
+            <td> Rakish</td>
+            <td>Dashing, but slightly disreputable in appearance</td>
+        </tr>
+        <tr>
+            <td> Ramble </td>
+            <td>talk in a confused way and at length</td>
+        </tr>
+        <tr>
+            <td>Ramification</td>
+            <td>Complex results of an action or event</td>
+        </tr>
+        <tr>
+            <td>Rampage</td>
+            <td>Rush around in a wild violent way</td>
+        </tr>
+    </table>
+</body>
+</center>
+</html>
